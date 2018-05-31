@@ -5,5 +5,13 @@ Leveraging TCGA gene expression data to build predictive models for cancer drug 
 
 # bin
 
+Contains preprocessing and pipeline scripts
+
 # data
+
+Open access UQ-FPKMs from TCGA
+
+# figures
+
+Scripts and figures associated with the manuscript
 
